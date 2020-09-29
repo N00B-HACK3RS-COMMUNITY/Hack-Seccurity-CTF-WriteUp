@@ -9,7 +9,7 @@
   - 1. Click on any failed transaction suppose say I click on first one now you'll notice some information about the transaction.
   - 1. For looking over the data inside this transaction you need to scroll down and look for ```Click to see More``` click on that and input data would be there in the hex format simply view as ```UTF-8 in View as Input link```.
   - 1. Boom!! You've your flag! Wait a sec that's not real flag for real flag do follow these step on every failed transactions.
-  - 1. Now you'll definetly get your flag at this  location [Real Flag](https://ropsten.etherscan.io/tx/0x1d9e846aff27ef177f0cbc072b04d0a4fbdc3439332f2d536e65e5a43c146789) Flag: HACSEC{h1d33N_4S_d474}.
+  - 1. Now you'll definetly get your flag at this  location [Real Flag](https://ropsten.etherscan.io/tx/0x1d9e846aff27ef177f0cbc072b04d0a4fbdc3439332f2d536e65e5a43c146789) Flag: ```HACSEC{h1d33N_4S_d474}```.
 
 ## I WannaCry 50:
 
