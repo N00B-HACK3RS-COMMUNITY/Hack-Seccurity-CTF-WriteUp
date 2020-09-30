@@ -12,3 +12,7 @@ curl -X GET https://jwtman.herokuapp.com/ -H "Authorization: Bearer eyJhbGciOiJI
 
 ### OSINT :
 https://wigle.net/search#detailSearch?netid=00%3A04%3A0E%3AF2%3A3B%3AB5
+
+### D4m4ged C4lc :
+open inspect tool and see every request thare you find error 
+when you click + sign its show "error 1-> SEFDU0VD", " - sing error 2-> e2M0bGNfM" " * sign error 3-> ypQbDBp" " * sign error 4-> dDNkfQ== " combine it "SEFDU0VDe2M0bGNfMypQbDBpdDNkfQ==" and decode with base64 
